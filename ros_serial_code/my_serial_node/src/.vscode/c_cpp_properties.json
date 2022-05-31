@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lyl/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/lyl/catkin_ws/src/aug_ekf/include/**",
+        "/home/lyl/catkin_ws/src/stereo_vo/camera_models/include/**",
+        "/home/lyl/catkin_ws/src/my_serial/serial/include/**",
+        "/home/lyl/catkin_ws/src/stereo_vo/stereo_vo_estimator/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
